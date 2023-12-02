@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charles Wilson
 - 👀 I’m interested in software development and cyber security 
-- 🌱 I’m currently learning a lot...lol
-- 💞️ I’m looking to collaborate on ... anything and everything 
-- 📫 How to reach me: charleswilsonk10@gmail.com 
+- 🌱 I’m currently a CS student at Bethany College WV
+- 💞️ I’m looking to collaborate on anything and everything 
+- 📫 How to reach me: charle.ikswilson@gmail.com 

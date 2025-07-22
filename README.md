@@ -16,17 +16,17 @@ Hi there! I'm Charles Wilson, a passionate **Computer Science student** at Virgi
 ---
 
 ### 💻 What Drives Me  
-- **Curiosity:** Whether it's learning a new programming language or diving deep into cybersecurity concepts, I’m always eager to grow and explore.  
+- **Curiosity:** I want to explore the stars one day and we need good tech to do that so I’m always eager to grow and explore because of that.  
 - **Collaboration:** I believe in the power of teamwork. Got a project? Let’s make it awesome together!  
 - **Impact:** I aim to develop solutions that make a difference, be it a sleek app, a secure system, or anything in between.  
 
 ---
 
 ### 🔧 Skills & Tools  
-- **Programming Languages:** Python, Java, C++, JavaScript  
+- **Programming Languages:** Python, Java, C#, JavaScript/TypeScript 
 - **Cybersecurity:** Ethical hacking basics, security protocols, network analysis  
-- **Frameworks & Tools:** React, Node.js, Git, Supabase  
-- **Current Focus:** AI/ML, databases, APIs  
+- **Frameworks & Tools:** React/Native, Node.js, Git, Supabase  
+- **Current Focus:** AI/ML, databases, APIs/MCP's 
 
 ---
 

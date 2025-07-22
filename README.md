@@ -16,7 +16,7 @@ Hi there! I'm Charles Wilson, a passionate **Computer Science student** at Virgi
 ---
 
 ### 💻 What Drives Me  
-- **Curiosity:** I want to explore the stars one day and we need good tech to do that so I’m always eager to grow and explore because of that.  
+- **Curiosity:** I want to explore the stars! We need quality tech to do that so I’m always eager to grow and explore because of that.  
 - **Collaboration:** I believe in the power of teamwork. Got a project? Let’s make it awesome together!  
 - **Impact:** I aim to develop solutions that make a difference, be it a sleek app, a secure system, or anything in between.  
 

@@ -1,56 +1,117 @@
-# 👋 Hello, World! I'm Charles Wilson 🌟  
+<div align="center">
 
-### 🌐 About Me  
-Hi there! I'm Charles Wilson, a passionate **Computer Science student** at Virginia Commonwealth University, with a love for **software development**, **cybersecurity**, **soccer**, and **art**. I thrive on solving problems, exploring innovative ideas, and collaborating with like-minded individuals to create something amazing. 💡  
+# Charles Wilson
 
----
+### AI Engineer • Full-Stack Developer • Builder
 
-### 💼 Professional Involvement  
-- **Software Engineering Intern at Serco**: Working on exciting projects and honing my engineering skills.  
-- **Member of Esteemed Communities**:  
-  - 🛠 **Major League Hacking (MLH)**  
-  - 🌈 **ColorStack**  
-  - 🚀 **National Society for Black Engineers (NSBE)**  
-  - 🖤 **Developing Men of Color at VCU**  
+Building AI-powered systems, economic analytics platforms, and cloud-native applications.
 
----
+Currently focused on combining:
+economic data + intelligent systems + modern infrastructure.
 
-### 💻 What Drives Me  
-- **Curiosity:** I want to explore the stars! We need quality tech to do that so I’m always eager to grow and explore because of that.  
-- **Collaboration:** I believe in the power of teamwork. Got a project? Let’s make it awesome together!  
-- **Impact:** I aim to develop solutions that make a difference, be it a sleek app, a secure system, or anything in between.  
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-c--wilson04-111111?style=for-the-badge&logo=github)](https://github.com/c-wilson04)
+![AWS](https://img.shields.io/badge/AWS-Lambda_|_ECR-111111?style=for-the-badge&logo=amazonaws)
+![AI](https://img.shields.io/badge/AI-HuggingFace-111111?style=for-the-badge&logo=huggingface)
+
+</div>
 
 ---
 
-### 🔧 Skills & Tools  
-- **Programming Languages:** Python, Java, C#, JavaScript/TypeScript 
-- **Cybersecurity:** Ethical hacking basics, security protocols, network analysis  
-- **Frameworks & Tools:** React/Native, Node.js, Git, Supabase  
-- **Current Focus:** AI/ML, databases, APIs/MCP's 
+## About Me
+
+Computer Science graduate from **Virginia Commonwealth University** interested in building systems that make complex information easier to understand.
+
+Right now I’m heavily focused on:
+- AI systems
+- economic & regional analytics
+- cloud infrastructure
+- full-stack development
+- intelligent automation
+
+I enjoy building things that sit at the intersection of research, engineering, and real-world impact.
 
 ---
 
-### 🌟 Hobbies & Interests  
-- ⚽ **Soccer Enthusiast**: Whether on the pitch or off, I love the game!  
-- 🎨 **Art Creator**: Check out my creations on Instagram: [Qwrld.visuals](https://www.instagram.com/qwrld.visuals)  
+## What I'm Building
+
+### Economic Intelligence Dashboard
+
+A platform that tracks how industries and regions are performing in real time using:
+- Census data
+- BLS & BEA economic indicators
+- live news analysis
+- AI-assisted interpretation
+
+The goal is to better understand:
+- regional economic health
+- industry specialization
+- media narrative influence
+- economic stability trends
+
+Built with:
+```txt
+React • Node.js • AWS Lambda • Docker • ECR • PostgreSQL
+```
 
 ---
 
-### 🚀 What I’m Up To  
-- 📚 **Learning:** Expanding my expertise in AI/ML and loss functions.  
-- 🔍 **Exploring:** Hands-on experience with real-world projects in software development and cybersecurity.  
-- 🤝 **Collaborating:** Open to working on projects—whether you're building a mobile app, enhancing cybersecurity measures, or diving into something entirely new.  
+## Experience
+
+### CTO — Rivers INT
+Built AI voice-agent systems for small businesses focused on automating customer calls and workflows.
+
+### Software Engineering Intern — Serco
+Worked on enterprise software engineering projects and production-scale systems.
 
 ---
 
-### 🎯 Let's Create Together!  
-I’m always looking for exciting opportunities to learn, build, and grow. Got an idea, a project, or just want to chat about tech? Reach out—I’d love to connect!  
+## Tech Stack
+
+```txt
+Python • TS/JS • C • C#
+React • Next.js • Node.js
+AWS • Docker • Supabase • PostgreSQL
+LangChain • Hugging Face • MCP Tooling
+```
 
 ---
 
-### 📫 Get in Touch  
-- **Email:** [charleswilsonk10@gmail.com](mailto:charleswilsonk10@gmail.com)  
-- **Instagram (Art Page):** [Qwrld.visuals](https://www.instagram.com/qwrld.visuals)  
-- **GitHub:** You’re already here—take a look around and drop a star if you like what you see! ⭐  
+## Organizations
 
-Let’s code the future together! 🌟  
+- Major League Hacking
+- ColorStack
+- NSBE
+- RVA Tech
+
+---
+
+## Outside of Tech
+
+- Soccer
+- Digital art
+- Creative technology
+
+🎨 Art Page:
+[@qwrld.visuals](https://www.instagram.com/qwrld.visuals)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=c-wilson04&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=c-wilson04&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems that turn data into insight.
+
+</div>

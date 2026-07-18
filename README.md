@@ -59,6 +59,9 @@ React • Node.js • AWS Lambda • Docker • ECR • PostgreSQL
 
 ## Experience
 
+### Associate Analyst - Technomics 
+Gov Contracting - Data Analytics - Software Engineering - Solution Architeching 
+
 ### CTO — Rivers INT
 Built AI voice-agent systems for small businesses focused on automating customer calls and workflows.
 
